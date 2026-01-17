@@ -1,0 +1,16 @@
+id,name,email,country,city,age,purchase_amount,signup_date
+1,John Doe,john@email.com,USA,New York,28,1250.50,2024-01-15
+2,Jane Smith,jane@email.com,UK,London,34,890.25,2024-01-18
+3,Bob Johnson,bob@email.com,Canada,Toronto,45,2100.00,2024-01-20
+4,Alice Williams,alice@email.com,USA,Los Angeles,29,450.75,2024-01-22
+5,Charlie Brown,charlie@email.com,Australia,Sydney,52,3200.00,2024-01-25
+6,Diana Prince,diana@email.com,UK,Manchester,31,1800.50,2024-01-28
+7,Eve Davis,eve@email.com,USA,Chicago,27,670.00,2024-02-01
+8,Frank Miller,frank@email.com,Germany,Berlin,38,1500.25,2024-02-03
+9,Grace Lee,grace@email.com,Canada,Vancouver,42,2250.00,2024-02-05
+10,Henry Wilson,henry@email.com,USA,Boston,35,980.50,2024-02-08
+11,Ivy Chen,ivy@email.com,Singapore,Singapore,30,1750.00,2024-02-10
+12,Jack Taylor,jack@email.com,UK,Birmingham,44,1200.75,2024-02-12
+13,Kate Anderson,kate@email.com,USA,Seattle,26,550.00,2024-02-15
+14,Leo Martinez,leo@email.com,Spain,Madrid,39,1900.50,2024-02-18
+15,Mia Garcia,mia@email.com,USA,Miami,33,1100.25,2024-02-20
