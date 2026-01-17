@@ -326,8 +326,3 @@ Built with:
 
 ---
 
-**Ready to demo? See DEMO_SCRIPT.md for the complete presentation!**
-
-**Questions? Check TROUBLESHOOTING.md or HACKATHON_READY.md**
-
-**🏆 Go win that hackathon!**
